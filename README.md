@@ -21,9 +21,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=hite"/></a>
      
-   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joje1003)](https://solved.ac/joje1003)<img src="http://mazandi.herokuapp.com/api?handle=joje1003&theme=cold"/></a>
+   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joje1003)](https://solved.ac/joje1003)<img src="http://mazandi.herokuapp.com/api?handle=joje1003&theme=cold"/>
    
    
-   [![trophy](https://github-profile-trophy.vercel.app/?username=HandemadeCloud)](https://github.com/ryo-ma/github-profile-trophy)
+   [![trophy](https://github-profile-trophy.vercel.app/?username=HandmadeCloud&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
