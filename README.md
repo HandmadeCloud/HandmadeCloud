@@ -2,7 +2,7 @@
      
    ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=It's%20Chemi&fontSize=60&animation=twinkling&fontAlignY=40)
     
-   <h3 align="left">🎓 Major : Industrial & Information Systems Engineering</h3>
+   <h3 align="center">🎓 Major : Industrial & Information Systems Engineering</h3>
      
    <h3 align="center">:star2: Tech Blog :star2:</h3>
      
