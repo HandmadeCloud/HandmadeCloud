@@ -1,12 +1,12 @@
 <div align="center">    
      
-   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Have%20Good%20Chemistry&fontSize=60&animation=twinkling&fontAlignY=40)
+   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Have%20Good%20Chemistry!&fontSize=60&animation=twinkling&fontAlignY=40)
     
    <h3 align="center">🎓 Major : Industrial & Information Systems Engineering</h3>
      
    <h3 align="center">:star2: Tech Blog :star2:</h3>
      
-  <a href="https://medium.com/@chemicode"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
+  <a href="https://handmadecoding.tistory.com/"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
     
   <h3 align="center">🛠 Skills 🛠</h3>
      
