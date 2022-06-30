@@ -1,6 +1,6 @@
 <div align="center">    
      
-   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=It's%20Chemi&fontSize=60&animation=twinkling&fontAlignY=40)
+   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Have%20Good%20Chemistry&fontSize=60&animation=twinkling&fontAlignY=40)
     
    <h3 align="center">🎓 Major : Industrial & Information Systems Engineering</h3>
      
