@@ -6,7 +6,7 @@
      
    <h3 align="center">:star2: Tech Blog :star2:</h3>
      
-  <a href="https://handmadecoding.tistory.com/"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
+  <a href="https://handmadecoding.tistory.com/">
     
   <h3 align="center">🛠 Skills 🛠</h3>
      
