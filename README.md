@@ -6,7 +6,7 @@
      
    <h3 align="center">:star2: Tech Blog :star2:</h3>
      
-  <a href="https://handmadecoding.tistory.com/">
+ "https://handmadecoding.tistory.com/
     
   <h3 align="center">🛠 Skills 🛠</h3>
      
