@@ -1,9 +1,4 @@
 <div align="center">    
-     
-   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Good%20Chemistry!&fontSize=60&animation=twinkling&fontAlignY=40)
-    
-   <h3 align="center">🎓 Major : Industrial & Information Systems Engineering</h3>
-     
    <h3 align="center">:star2: Tech Blog :star2:</h3>
      
  "https://handmadecoding.tistory.com/
